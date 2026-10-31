@@ -1,0 +1,14 @@
+# Atmosphere OS v0.4: COLOR, ARP and CHORD functional smoke test
+100 enc 4 12
+150 enc 5 10
+200 enc 6 8
+250 enc 7 16
+400 btn 10
+500 keys 37
+1800 shot
+2000 btn 11
+2100 keys 37
+3300 shot
+3500 keys 0
+3900 btn 10
+4300 end
